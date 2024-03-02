@@ -1,6 +1,6 @@
 ### Hi there 👋
 Utkarsh Singh's Portfolio 🚀
-Welcome to Utkarsh Singh's GitHub repository! This repository serves as a comprehensive portfolio showcasing Utkarsh's professional journey, including his projects, skills, contributions, and achievements. Below is an overview of the contents of this repository:
+Welcome to my GitHub repository! This repository serves as a comprehensive portfolio showcasing my professional journey, including my projects, skills, contributions, and achievements. Below is an overview of the contents of this repository:
 
 Professional Experience 💼
 Machine Learning Intern | VYZA Solution PVT LTD
@@ -31,16 +31,26 @@ Co-authored papers on machine learning and IoT-based systems.
 
 Projects 🛠️
 Generative Adversarial Neural Network
-Developed a GAN framework using Python and TensorFlow for synthetic dataset generation.
 E-commerce Website Development with Django
-Developed an e-commerce website featuring user authentication, product catalog, and secure payments using Django.
-
+Travelling-Salesmen-Problem-using-Coordinates
+Object-detection-with-Tensorflow
+Object-detection-with-yolov8
+Barcode-Reader-with-Opencv
+Drowsiness_detection-model
+Generative-Adversial-Neural-Network-project
+E-commerce-Site-with-Django-html-css
+ESp_32_to_ultrasonicsensor_HCSRO4
+ESP32-connection-to-AWS-IOT-CORE
+Potato-Disease-Classification-
+Recepie-app using Django
+NGOFinder
+And Many more
 
 Skills 🚀
 Programming Languages: Java, Python, C++
 Frameworks: Django, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
 Databases: MySQL, PostgreSQL
-Cloud Computing: AWS (EC2, S3, DynamoDB, SageMaker, IAM, IoT Core)
+Cloud Computing: AWS (EC2, S3, DynamoDB, SageMaker, IAM, IoT Core, etc)
 Skills: Problem Solving, Teamwork, Communication, Leadership
 
 
@@ -49,11 +59,17 @@ Vice-President of the Computer Society of India at The NorthCap University.
 Former Technical Manager at IEEE Robotics and Automation Society (RAS), NCU Chapter.
 
 Achievements 🏆
-Winner of various hackathons and startup competitions.
+• First place winner of IC HACK 2.0 at Jaipur, receiving a prize of RS 15,000. 
+• Secured first place at Engage Hackathon at NCU, winning RS 7,000. 
+• National Startup Competition winner at NCU, receiving a prize of RS 1,500. 
+• Qualified to present a business pitch at ENCISAGE GEMINI SOLUTIONS. 
+• Awarded first prize for GID at IIIT Bhubaneswar, securing incubation and investments. 
+•  Second place at Jashn-E-Entrepreneur Startup Pitch Event, winning RS 15,000. 
+• Achieved second position at Vdoit Hackathon, winning RS 3,000. 
 
 Contact Information 📧
-Email: utkarsh@example.com
-LinkedIn: Utkarsh Singh
+Email: utkarshsingh1709@gmail.com
+LinkedIn: [Utkarsh Singh](https://www.linkedin.com/in/utkarsh-singh-11a4b922b/)
 GitHub: utkarsh1709singh
 
 Feel free to explore My portfolio and reach out for any inquiries or collaboration opportunities. Thank you for visiting! 🎉
