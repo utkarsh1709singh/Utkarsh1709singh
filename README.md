@@ -19,11 +19,9 @@ Welcome to my GitHub repository! This repository serves as a comprehensive portf
 # Smart Waste Segregation | Cintana | The NorthCap University
 ## Duration: 08/2023 - 11/2023 (3 Months)
 * IoT-Driven Waste Management System: Designed and deployed an IoT-driven system to improve waste collection efficiency and reduce operational costs.
-* Technology Stack Utilized:
 + Leveraged ESP32 microcontrollers and various sensors (Ultrasonic, moisture, weight) for real-time monitoring of waste bin fill levels and distinguishing between wet and dry waste.
 + Established data transmission from ESP32 devices to AWS IoT Core via MQTT, with data rerouted to DynamoDB for storage.
 + Utilized AWS Lambda for data analysis by accessing DynamoDB data via AWS endpoint.
-* Route Optimization and Visualization:
 + Implemented route optimization algorithms to prioritize waste collection from the most-filled dustbins.
 + Developed a dynamic website to display real-time visualization of bin statuses, enabling instant access to bin levels and facilitating optimized route planning.
 
