@@ -5,68 +5,70 @@ Welcome to my GitHub repository! This repository serves as a comprehensive portf
 
 ## Professional Experience 💼
 # Machine Learning Intern | VYZA Solution PVT LTD
-Duration: 11/2023 - 03/2024 (6 Months)
-Conducted research on Deep Q-learning algorithms for stock market trend prediction.
-Developed and deployed a Deep Q-Learning model for stock price prediction.
-Utilized Docker containers and AWS SageMaker for model deployment.
+## Duration: 11/2023 - 03/2024 (6 Months)
+* Conducted research on Deep Q-learning algorithms for stock market trend prediction.
+* Developed and deployed a Deep Q-Learning model for stock price prediction.
+* Utilized Docker containers and AWS SageMaker for model deployment.
 
 # The Smart Cart Project | The North Cap University
-Duration: 12/2022 - 11/2023 (1 Year)
-Led a team in designing and implementing an IoT-based Smart Cart.
-Developed software for seamless communication between hardware components.
-Developed an Object Detection algorithm using TensorFlow for real-time product identification.
+## Duration: 12/2022 - 11/2023 (1 Year)
+* Led a team in designing and implementing an IoT-based Smart Cart.
+* Developed software for seamless communication between hardware components.
+* Developed an Object Detection algorithm using TensorFlow for real-time product identification.
 
 # Smart Waste Segregation | Cintana | The NorthCap University
-Duration: 08/2023 - 11/2023 (3 Months)
-Designed and deployed an IoT-driven waste management system.
-Utilized ESP32 microcontrollers and AWS IoT Core for real-time monitoring.
-Developed a website for real-time visualization of bin statuses and route optimization.
+## Duration: 08/2023 - 11/2023 (3 Months)
+* Designed and deployed an IoT-driven waste management system.
+* Utilized ESP32 microcontrollers and AWS IoT Core for real-time monitoring.
+* Developed a website for real-time visualization of bin statuses and route optimization.
 
 # AWS Cloud Intern | F13 Technologies Pvt | Delhi
-Duration: 05/2023 - 08/2023 (3 Months)
-Implemented recommender systems and managed virtual servers on AWS.
-Led the migration of projects to AWS infrastructure.
+## Duration: 05/2023 - 08/2023 (3 Months)
+* Implemented recommender systems and managed virtual servers on AWS.
+* Led the migration of projects to AWS infrastructure.
+* Developed static and dynamic websites hosted on AWS.    
+* Successfully created and managed a virtual server on AWS, showcasing cloud infrastructure expertise. 
 
 # Research Work 📝
-Co-authored papers on machine learning and IoT-based systems.
+* Co-authored papers on multiple machine learning and IoT-based systems.
 
 # Projects 🛠️
-Generative Adversarial Neural Network
-E-commerce Website Development with Django
-Travelling-Salesmen-Problem-using-Coordinates
-Object-detection-with-Tensorflow
-Object-detection-with-yolov8
-Barcode-Reader-with-Opencv
-Drowsiness_detection-model
-Generative-Adversial-Neural-Network-project
-E-commerce-Site-with-Django-html-css
-ESp_32_to_ultrasonicsensor_HCSRO4
-ESP32-connection-to-AWS-IOT-CORE
-Potato-Disease-Classification-
-Recepie-app using Django
-NGOFinder
+* Generative Adversarial Neural Network
+* E-commerce Website Development with Django
+* Travelling-Salesmen-Problem-using-Coordinates
+* Object-detection-with-Tensorflow
+* Object-detection-with-yolov8
+* Barcode-Reader-with-Opencv
+* Drowsiness_detection-model
+* Generative-Adversial-Neural-Network-project
+* E-commerce-Site-with-Django-html-css
+* ESp_32_to_ultrasonicsensor_HCSRO4
+* ESP32-connection-to-AWS-IOT-CORE
+* Potato-Disease-Classification-
+* Recepie-app using Django
+* NGOFinder
 And Many more
 
 # Skills 🚀
-Programming Languages: Java, Python, C++
-Frameworks: Django, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
-Databases: MySQL, PostgreSQL
-Cloud Computing: AWS (EC2, S3, DynamoDB, SageMaker, IAM, IoT Core, etc)
-Skills: Problem Solving, Teamwork, Communication, Leadership
+* Programming Languages: Java, Python, C++
+* Frameworks: Django, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
+* Databases: MySQL, PostgreSQL
+* Cloud Computing: AWS (EC2, S3, DynamoDB, SageMaker, IAM, IoT Core, etc)
+* Skills: Problem Solving, Teamwork, Communication, Leadership
 
 
 # Position of Responsibility 🎖️
-Vice-President of the Computer Society of India at The NorthCap University.
-Former Technical Manager at IEEE Robotics and Automation Society (RAS), NCU Chapter.
+* Vice-President of the Computer Society of India at The NorthCap University.
+* Former Technical Manager at IEEE Robotics and Automation Society (RAS), NCU Chapter.
 
 # Achievements 🏆
-• First place winner of IC HACK 2.0 at Jaipur, receiving a prize of RS 15,000. 
-• Secured first place at Engage Hackathon at NCU, winning RS 7,000. 
-• National Startup Competition winner at NCU, receiving a prize of RS 1,500. 
-• Qualified to present a business pitch at ENCISAGE GEMINI SOLUTIONS. 
-• Awarded first prize for GID at IIIT Bhubaneswar, securing incubation and investments. 
-•  Second place at Jashn-E-Entrepreneur Startup Pitch Event, winning RS 15,000. 
-• Achieved second position at Vdoit Hackathon, winning RS 3,000. 
+* First place winner of IC HACK 2.0 at Jaipur, receiving a prize of RS 15,000. 
+* Secured first place at Engage Hackathon at NCU, winning RS 7,000. 
+* National Startup Competition winner at NCU, receiving a prize of RS 1,500. 
+* Qualified to present a business pitch at ENCISAGE GEMINI SOLUTIONS. 
+* Awarded first prize for GID at IIIT Bhubaneswar, securing incubation and investments. 
+*  Second place at Jashn-E-Entrepreneur Startup Pitch Event, winning RS 15,000. 
+* Achieved second position at Vdoit Hackathon, winning RS 3,000. 
 
 # Contact Information 📧
 # Email: utkarshsingh1709@gmail.com
